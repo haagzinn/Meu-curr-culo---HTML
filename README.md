@@ -18,7 +18,7 @@
     <h2>Experiência de Trabalho</h2>
     <ul>
         <li>
-            <strong>Menor Aprendiz - RVB Malhas</strong>
+            <strong>RVB Malhas</strong>
             <p>Atuação no setor administrativo, auxiliando em rotinas internas da empresa.</p>
         </li>
         <li>
